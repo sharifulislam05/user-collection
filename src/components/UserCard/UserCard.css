@@ -1,0 +1,16 @@
+.card .card-footer {
+    border: 0;
+}
+.card-img{
+    border-radius: 50%;
+    position: relative;
+    top: -40px;
+    height: 40% ;
+    width: 40%;
+}
+.friends-info {
+    background: rgb(121, 114, 114);
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 5px;
+}
